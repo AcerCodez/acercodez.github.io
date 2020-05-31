@@ -3,7 +3,7 @@ backend:
   name: github
   repo: acercodez/acercodez.github.io
   branch: master
-  site_domain: modest-swirles-d9e04e.netlify.com
+  site_domain: acercodez.netlify.com
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
